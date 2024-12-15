@@ -1,0 +1,13 @@
+.texto {
+  border: 3px solid #28527a;
+  background-color: #e3e8f0;
+  color: #1e3a24;
+  padding: 20px;
+  border-radius: 15px;
+  font-family: "Cinzel", serif;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 20px auto;
+  width: 90%;
+  white-space: pre-line;
+}

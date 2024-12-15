@@ -1,0 +1,22 @@
+.heroe,
+.enemigo {
+  width: 200px;
+  border: 2px solid #28527a;
+  background-color: #eaf4f4;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.heroe .imagen,
+.enemigo .imagen {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.estadisticas {
+  font-size: 1rem;
+  color: #28527a;
+}

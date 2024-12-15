@@ -1,0 +1,33 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f5f5;
+  color: #2a5934;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  padding: 20px;
+}
+
+.menu h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px #1e3a24;
+}
+
+.boton-reiniciar {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  background-color: #2a5934;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.boton-reiniciar:hover {
+  background-color: #1e3a24;
+}

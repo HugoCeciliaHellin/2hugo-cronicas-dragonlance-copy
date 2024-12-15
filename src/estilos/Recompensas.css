@@ -1,0 +1,15 @@
+.recompensas li {
+  margin-bottom: 10px;
+}
+
+.recompensa-nombre {
+  font-weight: bold;
+  color: #2a5934;
+  font-size: 1.2rem;
+}
+
+.recompensa-descripcion {
+  font-style: italic;
+  color: #1e3a24;
+  font-size: 1rem;
+}
